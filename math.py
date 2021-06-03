@@ -1,7 +1,7 @@
 # add imp
 
 def add(x,y):
-    pass
+    return(x+y)
 
 #sub imp
 def subtract(x,y):
