@@ -13,7 +13,7 @@ def subtract(x,y): #main
 
 #mul 
 def multiply(x,y):
-    pass
+    return x*y
 
 #div
 def divide(x,y):
